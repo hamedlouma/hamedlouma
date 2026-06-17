@@ -7,6 +7,8 @@
 
 </div>
 
+Etudiant ingenieur cybersecurite passionne par la securite offensive, les CTF, le pentest et l'administration reseau & systeme.
+
 ## Projets Cybersecurite
 
 ### [Projet 1 - A venir]()
@@ -27,14 +29,14 @@ Pentest Web - SQLi / XSS - OWASP Top 10 - Reconnaissance - Enumeration - Exploit
 **SOC & Defensive**
 Wazuh SIEM - Analyse de logs - Detection d'intrusion - Triage d'alertes - Threat Intelligence - Incident Response
 
+**Administration Reseau & Systeme**
+Linux (Kali / Debian) - Windows Server - VMware / VirtualBox - pfSense - Active Directory
+
 **Outils**
 Nmap - Burp Suite - Metasploit - Hydra - Gobuster - LinPEAS / WinPEAS - Kali Linux
 
 **Developpement**
 Python - Bash - TypeScript - Git / GitHub
-
-**Systemes & Reseaux**
-Linux (Kali / Debian) - Windows - VMware / VirtualBox - pfSense
 
 ## Certifications
 
@@ -55,7 +57,7 @@ Bulgarie | 2023 - 2024
 
 <div align="center">
 
-Ouvert aux opportunites en cybersecurite offensive, SOC et pentest
+Ouvert aux opportunites en cybersecurite offensive, SOC, pentest et administration systeme & reseau
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hamed-otila-a-louma-a5656a365)
 
