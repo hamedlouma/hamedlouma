@@ -1,7 +1,8 @@
 # Hamed Louma
 
 <div align="center">
-
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamed-otila-a-louma-a5656a365)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pro.louma@gmail.com)
 
 </div>
@@ -51,13 +52,3 @@ Albacete, Espagne | 2025 - 2026
 
 **Erasmus+ - Universite de Veliko Tarnovo**
 Bulgarie | 2023 - 2024
-
----
-
-<div align="center">
-
-Ouvert aux opportunites en cybersecurite offensive, SOC, pentest et administration systeme & reseau
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hamed-otila-a-louma-a5656a365)
-
-</div>
