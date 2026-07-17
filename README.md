@@ -7,53 +7,53 @@
 
 </div>
 
-Etudiant ingenieur cybersecurite passionne par la securite offensive, les CTF, le pentest et l'administration systeme & reseau.
+Étudiant ingénieur en cybersécurité, passionné par la sécurité défensive, les CTF, le pentest et l'administration systèmes & réseaux.
 
-## Projets Cybersecurite
+## Projets Cybersécurité
 
-### [Projet 1 - A venir]()
+### [Projet 1 - À venir]()
 *En cours de construction*
 
 ---
 
-### [Projet 2 - A venir]()
+### [Projet 2 - À venir]()
 *En cours de construction*
 
 ---
 
-## Competences Techniques
+## Compétences Techniques
 
-**Securite Offensive**
-Pentest Web - SQLi / XSS - OWASP Top 10 - Reconnaissance - Enumeration - Exploitation - Post-exploitation
+**Sécurité Offensive**
+Pentest Web • SQLi / XSS • OWASP Top 10 • Reconnaissance • Énumération • Exploitation • Post-exploitation
 
-**SOC & Defensive**
-Wazuh SIEM - Analyse de logs - Detection d'intrusion - Triage d'alertes - Threat Intelligence - Incident Response
+**SOC & Défensive**
+Wazuh SIEM • Analyse de logs • Détection d'intrusion • Triage d'alertes • Threat Intelligence • Incident Response
 
-**Administration Reseau & Systeme**
-Linux (Kali / Debian) - Windows Server - VMware / VirtualBox - pfSense - Active Directory
+**Administration Réseau & Système**
+Linux (Kali / Debian) • Windows Server • VMware / VirtualBox • pfSense • Active Directory
 
 **Outils**
-Nmap - Burp Suite - Metasploit - Hydra - Gobuster - LinPEAS / WinPEAS - Kali Linux
+Nmap • Burp Suite • Metasploit • Hydra • Gobuster • LinPEAS / WinPEAS • Kali Linux
 
-**Developpement**
-Python - Bash - TypeScript - Git / GitHub
+**Développement**
+Python • Bash • TypeScript • Git / GitHub
 
 ## Certifications
 
-- 🛡️ SecNumacademie MOOC — ANSSI
+- 🛡️ SecNumacadémie MOOC — ANSSI
 
 ## Formation
 
-**Ingenieur Cybersecurite - BAC+5**
+**Ingénieur Cybersécurité — BAC+5**
 ESAIP Angers | 2023 - 2026
 
-**Erasmus+ - Universidad de Castilla-La Mancha**
+**Erasmus+ — Universidad de Castilla-La Mancha**
 Albacete, Espagne | 2025 - 2026
 
-**Erasmus+ - Universite de Veliko Tarnovo**
+**Erasmus+ — Université de Veliko Tarnovo**
 Bulgarie | 2023 - 2024
 
-**Classe Preparatoire MPSI**
+**Classe Préparatoire MPSI**
 Libreville, Gabon | 2021 - 2023
 
 ---
@@ -62,7 +62,7 @@ Libreville, Gabon | 2021 - 2023
 
 ### 📫 Let's Connect
 
-A la recherche d'un stage de fin d'etudes (PFE — 6 mois) en cybersecurite defensive, administration systemes & reseaux, ou observabilite, a partir de septembre 2026.
+À la recherche d'un stage de fin d'études (PFE — 6 mois) en cybersécurité défensive, administration systèmes & réseaux, ou observabilité, à partir de septembre 2026.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamed-otila-louma)
 [![Connect](https://img.shields.io/badge/Connect-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pro.louma@gmail.com)
