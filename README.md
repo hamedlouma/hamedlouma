@@ -40,7 +40,9 @@ Python - Bash - TypeScript - Git / GitHub
 
 ## Certifications
 
-*(En cours - a mettre a jour)*
+🛡️ **SecNumacademie — ANSSI** (Fev. 2026)  
+MOOC Securite des Systemes d'Information — 4 modules, score 100%  
+Panorama SSI • Authentification • Securite Internet • Poste de travail & Nomadisme
 
 ## Formation
 
