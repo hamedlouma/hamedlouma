@@ -52,3 +52,19 @@ Albacete, Espagne | 2025 - 2026
 
 **Erasmus+ - Universite de Veliko Tarnovo**
 Bulgarie | 2023 - 2024
+
+**Classe Preparatoire MPSI**
+Libreville, Gabon | 2021 - 2023
+
+---
+
+<div align="center">
+
+### 📫 Let's Connect
+
+A la recherche d'un stage de fin d'etudes (PFE — 6 mois) en cybersecurite defensive, administration systemes & reseaux, ou observabilite, a partir de septembre 2026.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamed-otila-louma)
+[![Connect](https://img.shields.io/badge/Connect-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pro.louma@gmail.com)
+
+</div>
