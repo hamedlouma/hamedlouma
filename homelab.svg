@@ -60,7 +60,7 @@
     <circle cx="720" cy="64" r="2.2"/>
   </g>
   <text x="720" y="122" text-anchor="middle" font-size="13" font-weight="700" fill="#e6edf3">Ubuntu Server</text>
-  <text x="720" y="139" text-anchor="middle" font-size="10.5" fill="#8b949e">SIEM Wazuh</text>
+  <text x="720" y="139" text-anchor="middle" font-size="10.5" fill="#8b949e">SIEM &amp; Observabilité</text>
 
   <!-- ============ Kali Linux / Attaquant (cx=880) ============ -->
   <circle cx="880" cy="64" r="32" fill="#557C94"/>
