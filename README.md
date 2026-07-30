@@ -15,7 +15,7 @@
 
 *Infrastructure personnelle de test et d'entraînement*
 
-<a href="https://hamedlouma.github.io/bloghowl/projets.html"><img src="homelab.svg" alt="Homelab — 6 VMs VirtualBox : OPNsense, Windows Server 2022, 2x Windows 10, Ubuntu Server (SIEM Wazuh), Kali Linux" width="850"></a>
+<img src="homelab.svg" alt="Homelab — 6 VMs VirtualBox : OPNsense, Windows Server 2022, 2x Windows 10, Ubuntu Server (SIEM Wazuh), Kali Linux" width="850">
 
 </div>
 
