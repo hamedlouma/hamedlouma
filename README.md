@@ -9,6 +9,21 @@
 
 Étudiant ingénieur en cybersécurité, passionné par la sécurité défensive, les CTF, le pentest et l'administration systèmes & réseaux.
 
+## 🖥️ Homelab
+
+<div align="center">
+
+*Infrastructure personnelle de test et d'entraînement — VirtualBox*
+
+![Firewall](https://img.shields.io/badge/Firewall%20%2F%20Routeur-OPNsense-FF6600?style=for-the-badge&logo=opnsense&logoColor=white)
+![AD](https://img.shields.io/badge/Active%20Directory-Windows%20Server%202022-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Client1](https://img.shields.io/badge/Client%20domaine%20%231-Windows%2010-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Client2](https://img.shields.io/badge/Client%20domaine%20%232-Windows%2010-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![SIEM](https://img.shields.io/badge/SIEM%20Wazuh-Ubuntu%20Server-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Kali](https://img.shields.io/badge/Attaquant-Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+
+</div>
+
 ## Projets Cybersécurité
 
 ### [Projet 1 - À venir]()
