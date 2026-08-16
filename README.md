@@ -7,7 +7,7 @@
 
 </div>
 
-Étudiant ingénieur en cybersécurité, passionné par la sécurité défensive, les CTF, le pentest et l'administration systèmes & réseaux.
+Élève ingénieur réseaux et cybersécurité, actuellement stagiaire dans l'équipe NRE de Worldline sur l'observabilité des infrastructures. Je m'intéresse à l'automatisation d'infrastructure, au monitoring et à la fiabilité des systèmes.
 
 ## 🖥️ Homelab
 
@@ -19,34 +19,19 @@
 
 </div>
 
-## Projets
-
-### [Projet 1 - À venir]()
-*En cours de construction*
-
----
-
-### [Projet 2 - À venir]()
-*En cours de construction*
-
----
-
 ## Compétences Techniques
 
-**Sécurité Offensive**
-Pentest Web • SQLi / XSS • OWASP Top 10 • Reconnaissance • Énumération • Exploitation • Post-exploitation
+**Observabilité & Infrastructure**
+Grafana • Prometheus • PromQL • Graylog • PagerDuty • GitLab CI/CD • NetBox • Python / APIs REST
 
-**SOC & Défensive**
-Wazuh SIEM • Analyse de logs • Détection d'intrusion • Triage d'alertes • Threat Intelligence • Incident Response
+**Réseau & Système**
+Linux (Kali / Debian) • Windows Server • Active Directory • VMware / VirtualBox • OPNsense / pfSense • Cisco (VLAN, OSPF)
 
-**Administration Réseau & Système**
-Linux (Kali / Debian) • Windows Server • VMware / VirtualBox • pfSense • Active Directory
+**Sécurité**
+Wazuh SIEM • Analyse de logs • Détection d'intrusion • Incident Response • Pentest Web (SQLi / XSS) • OWASP Top 10
 
-**Outils**
-Nmap • Burp Suite • Metasploit • Hydra • Gobuster • LinPEAS / WinPEAS • Kali Linux
-
-**Développement**
-Python • Bash • TypeScript • Git / GitHub
+**Outils & Dev**
+Python • Bash • Git / GitHub • Nmap • Burp Suite • Metasploit • Hydra
 
 ## Certifications
 
@@ -55,7 +40,7 @@ Python • Bash • TypeScript • Git / GitHub
 ## Formation
 
 **Ingénieur Cybersécurité — BAC+5**
-ESAIP Angers | 2023 - 2026
+ESAIP Angers | 2023 - 2027
 
 **Erasmus+ — Universidad de Castilla-La Mancha**
 Albacete, Espagne | 2025 - 2026
@@ -72,7 +57,7 @@ Libreville, Gabon | 2021 - 2023
 
 ### 📫 Let's Connect
 
-À la recherche d'un stage de fin d'études (PFE — 6 mois) en cybersécurité défensive, administration systèmes & réseaux, ou observabilité, à partir de septembre 2026.
+À la recherche d'un stage de fin d'études (PFE — 6 mois) en observabilité, automatisation d'infrastructure, réseaux & systèmes, à partir de février 2027.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamed-otila-louma)
 [![Connect](https://img.shields.io/badge/Connect-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pro.louma@gmail.com)
