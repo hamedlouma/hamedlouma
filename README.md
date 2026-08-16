@@ -23,11 +23,11 @@
 
 **Observabilité & Infrastructure** — Grafana • Prometheus • PromQL • Graylog • PagerDuty • GitLab CI/CD • NetBox • Python / APIs REST
 
-**Réseau & Système** — Linux (Kali / Debian) • Windows Server • Active Directory • VMware / VirtualBox • OPNsense / pfSense • Cisco (VLAN, OSPF)
+**Réseau & Système** — Linux (Kali / Debian) • Windows Server • Active Directory • VMware / VirtualBox • OPNsense / pfSense • Cisco (VLAN, OSPF) • Fortinet • Palo Alto
 
-**Sécurité** — Wazuh SIEM • Analyse de logs • Détection d'intrusion • Incident Response • Pentest Web (SQLi / XSS) • OWASP Top 10
+**Sécurité** — Wazuh SIEM • Analyse de logs • Détection d'intrusion • Incident Response • Pentest Web (SQLi / XSS) • OWASP Top 10 • Nmap • Burp Suite • Metasploit
 
-**Outils & Dev** — Python • Bash • Git / GitHub • Nmap • Burp Suite • Metasploit • Hydra
+**Développement & Outils** — Python • Bash • Git / GitHub
 
 ## Certifications
 
