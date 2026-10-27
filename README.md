@@ -9,34 +9,6 @@
 
 Élève ingénieur en réseaux et cybersécurité (ESAIP, majeure Cybersécurité), je réalise mon projet de fin d'études dans l'équipe NRE (Network Reliability Engineering) de Worldline : automatisation et mise en conformité PCI-DSS du parc de firewalls Palo Alto, en Infrastructure as Code. Je m'intéresse à l'automatisation d'infrastructure, à l'observabilité et à la fiabilité des systèmes.
 
-## Expérience professionnelle
-
-### Worldline — Network Reliability Engineering
-
-*Seclin (59) · Hybride*
-
-**Stagiaire Ingénieur NRE — Projet de fin d'études** · oct. 2026 – aujourd'hui
-
-Transformer la gestion du parc de firewalls Palo Alto par l'automatisation et la mise en conformité PCI-DSS, en Infrastructure as Code.
-
-- **Palo Alto as Code** : lien NetBox ↔ Git, déploiement des configurations via pipelines CI/CD
-- **Standardisation** : migration du parc vers un template aligné PCI-DSS
-- **Contrôle des accès** : revue des utilisateurs (équipements et Panorama), gestion automatisée au moindre privilège
-- **Optimisation** : détection et suppression des objets, règles et services inutilisés
-- **Documentation** et industrialisation des nouveaux processus
-
-**Stack :** Python • NetBox • GitLab CI/CD • Ansible • Palo Alto / Panorama • Nornir
-
-**Stagiaire Ingénieur NRE — Observabilité** · mai 2026 – sept. 2026
-
-- Inventaire et analyse comparative des métriques des firewalls Palo Alto et Fortinet
-- Dashboards Grafana pour le monitoring des firewalls Fortinet (CPU, sessions, BGP, HA)
-- Scripts Python de collecte de métriques via les APIs REST Palo Alto et Fortinet
-- Alertes Graylog intégrées à PagerDuty pour la détection d'incidents réseau (duplicate IP)
-- Migration des sources de données NetPortal vers NetBox
-
-**Stack :** Grafana • Prometheus • PromQL • Mimir • Python • Graylog • PagerDuty • GitLab CI/CD • NetBox • Docker • Kubernetes • Ansible • Terraform
-
 ## 🖥️ Homelab
 
 <div align="center">
