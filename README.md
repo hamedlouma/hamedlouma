@@ -55,7 +55,7 @@ Libreville, Gabon | 2021 - 2023
 
 ### 📫 Let's Connect
 
-Ouvert aux échanges sur l'automatisation réseau, l'observabilité et la fiabilité des infrastructures.
+À la recherche d'un premier emploi en automatisation réseau, observabilité et fiabilité des infrastructures (SRE / NRE) — disponible à partir d'avril 2027.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamed-otila-louma)
 [![Connect](https://img.shields.io/badge/Connect-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pro.louma@gmail.com)
